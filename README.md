@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uvsingh2706
+- 👋 Hi, I’m yuvrajsingh chouhan
 - 👀 I’m interested in web dev and open source contribution
 - 🌱 I’m currently learning frontend skills
 - 📫 for contacting me :- linkedin.com/in/yuvrajsingh-chouhan-9a76b1202 or ys030198@gmail.com
